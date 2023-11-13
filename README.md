@@ -2,7 +2,7 @@
 - 👀 I’m interested in partner to carry out a project
 - 🌱 I’m currently learning to manage this program
 - 💞️ I’m looking to collaborate on environmental protection project
-- 📫 How to reach me via email.  mauricio.cortés rocha 84@gmail.com
+- 📫 How to reach me via email.  mauricio.cortésrocha84@gmail.com
 
 <!---
 19841984mau/19841984mau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
